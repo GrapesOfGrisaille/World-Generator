@@ -1,0 +1,9 @@
+{
+    "id" : "WorldGen",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "",
+    "displayName" : "WorldGen",
+    "description" : "",
+    "dependencies" : [{"id": "Core", "minVersion": "2.2.1"}],
+    "serverSideOnly" : false
+}
